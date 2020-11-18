@@ -2,7 +2,7 @@ Pentesting Cheating
 
 https://hausec.com/pentesting-cheatsheet/#_Toc475368977
 
-security + cheatsheet
+Security + cheatsheet
 
 https://drive.google.com/drive/folders/1HI8ffU7WyBaQyUtkYhRVn32fJKsHgKVX
 
