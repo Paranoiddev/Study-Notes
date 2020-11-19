@@ -1,6 +1,6 @@
 Identity access management is where you manage your AWS users and the level of access associated to their account and services they can use. 
 
-IAM is Users, groups, IAM policies and Roles. 
+IAM is Users, groups, IAM policies and Roles, roles is for AWS services to communicate to eachother. 
 
 Never use root user, think principle of least privilege and Zero Trust. 
 
@@ -9,7 +9,6 @@ Your authentication and authorization is handled by IAM.
 Before creating user accounts, enable MFA for your root user for example with google authenticator, Delete root access keys.
 
 For adminstrative tasks create an IAM user with 'AdministratorAccess' policy assigned to it.
-
 
 
 After, creating indiviual IAM users. (Use ask user to create a new password on first login to aws)
