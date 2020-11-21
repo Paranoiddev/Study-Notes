@@ -1,6 +1,8 @@
 Identity access management is where you manage your AWS users and the level of access associated to their account and services they can use. 
 
-IAM is Users, groups, IAM policies and Roles, roles is for AWS services to communicate to eachother. 
+IAM is Users, groups, IAM policies and Roles, roles is for AWS services to communicate to eachother or user on another aws account/ federated login from coorperate directory. 
+
+Explicit deny in AWS means If a user is denied access in any policy, it will override any allow in any policy.
 
 Never use root user, think principle of least privilege and Zero Trust. 
 
@@ -23,5 +25,3 @@ It is more convenient and efficient to set up groups and assign permissions to t
 For more info follow this link:
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html
-
-
