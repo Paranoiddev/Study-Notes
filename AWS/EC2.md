@@ -31,3 +31,5 @@ You can use CLI on you PC.
 https://docs.aws.amazon.com/cli/latest/index.html
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-profiles.html
+
+You can assign roles instead of using user keys, you can change, remove or assign IAM roles without starting or stopping the EC2 instance, this way your keys are secure and not accidentally leaked on github or other platforms.
