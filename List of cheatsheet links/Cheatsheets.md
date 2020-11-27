@@ -10,6 +10,10 @@ Docker cheatsheet
 
 https://github.com/wsargent/docker-cheat-sheet
 
+python3 cheatsheet: (python3 is being deprecated)
+
+https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
+
 Cysa+ studynotes by ReefMeeter
 
 https://github.com/ReefMeeter/CySA
@@ -19,7 +23,7 @@ AWS VPC CheatSheet:
 https://www.stackchief.com/tutorials/AWS%20VPC%20Tutorial
 
 
-AWS stash: 
+AWS stash (contains talks, whitepapers or anything related to aws)
 
 awsstach.com
 
