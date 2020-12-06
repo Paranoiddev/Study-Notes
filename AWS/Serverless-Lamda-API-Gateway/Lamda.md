@@ -8,4 +8,4 @@ It can support Node.Js java, python, C# and GO.
 
 First 1 million are free. It has continous scaling but it can be prone to outage. Lamda scales out not up.
 
-AWS X-ray allows to debug Lamda, it can also be used globally.s
+AWS X-ray allows to debug Lamda, it can also be used globally.
